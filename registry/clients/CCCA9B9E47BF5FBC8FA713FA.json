@@ -1,15 +1,15 @@
 {
   "ClientId": "CL-67C6508F",
-  "ClientName": "حمزة قيفان",
+  "ClientName": "Test Client",
   "MachineName": "DESKTOP-2S2HESF",
   "HardwareId": "CCCA9B9E47BF5FBC8FA713FA",
   "SystemKey": "SarrafPlus",
-  "ClientFolderPath": "E:\\الانظمة المصرفيه المرتبطة بالسيرفر تبع المدير هشام\\كلاينت الصراف بلس الامنية\\كلاينت الصراف بلس الامنية",
+  "ClientFolderPath": "C:\\TestClient",
   "HostFolderPath": "",
   "HasHost": false,
   "Status": "Approved",
   "RegisteredAt": "\/Date(1794733304473)\/",
   "ApprovedAt": "\/Date(1794733318384)\/",
-  "LastSeenAt": "\/Date(1794733304473)\/",
-  "Notes": "تم الاعتماد من لوحة التحكم"
+  "LastSeenAt": "\/Date(1794748701170)\/",
+  "Notes": ""
 }
