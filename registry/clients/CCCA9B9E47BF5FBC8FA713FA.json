@@ -3,13 +3,13 @@
   "ClientName": "02020",
   "MachineName": "DESKTOP-2S2HESF",
   "HardwareId": "CCCA9B9E47BF5FBC8FA713FA",
-  "SystemKey": "FifthCompanies",
+  "SystemKey": "SarrafPlus",
   "ClientFolderPath": "C:\\Users\\DESK-EBDA SOFT\\Desktop\\00",
   "HostFolderPath": "",
   "HasHost": false,
-  "Status": "Pending",
+  "Status": "Approved",
   "RegisteredAt": "\/Date(1795451153816)\/",
-  "ApprovedAt": null,
+  "ApprovedAt": "\/Date(1795451177797)\/",
   "LastSeenAt": "\/Date(1795451153816)\/",
-  "Notes": ""
+  "Notes": "تم الاعتماد من لوحة التحكم"
 }
